@@ -4,7 +4,7 @@ A machine learning project that predicts whether a passenger survived the Titani
 
 📁 Dataset
 
-Used the Titanic dataset containing details like passenger class, age, gender, fare, and survival status.
+Used the Titanic dataset frm kaggle containing details like passenger class, age, gender, fare, and survival status.
 
 💻 Technologies Used
 

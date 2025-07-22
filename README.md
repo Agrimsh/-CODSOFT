@@ -4,6 +4,6 @@ This repository contains three data science and machine learning projects create
 
 ## Projects
 
-1. 🚢 [Titanic Survival Prediction](./Titanic-Survival-Prediction/)
+1. 🚢 [Titanic Survival Prediction](./task1/)
    - Predict survival using logistic regression
    - Accuracy: ~80%

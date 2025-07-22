@@ -24,6 +24,8 @@ Load and clean the Titanic dataset
 
 Preprocess data (handle missing values, encode categorical variables)
 
+Exploratory data analysis(EDA)
+
 Split into training and testing sets
 
 Train a Logistic Regression model
